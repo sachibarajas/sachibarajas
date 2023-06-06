@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachibarajas" alt="sachibarajas" /></a> </p>
 
+<p align="left"> Mechatronic engineering student and full stack developer. Proficient in all necessary technologies to develop a complete web application: JavaScript, NodeJs, Express, Sequelize, PostgreSQL, React, ReactRedux, CSS, HTML5, and others. I have also worked on some artificial vision functionalities in Python, using the OpenCV library. During my career, I have used a wide variety of programming languages which allows me to be very versatile and easily adapt to any development environment. <p>
+
 - 🔭 I have worked on [propTech](https://proptech.bio/)
 
 - 🌱 I’m currently learning **Javascript, Typescript, React, Redux, express, sequelize, CSS, HTML5**
